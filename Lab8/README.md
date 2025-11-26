@@ -1,0 +1,1 @@
+This repository contains my Lab 8 project for ELEN 120, where I programmed the STM32L476G Discovery board’s segmented LCD and keypad interface. The lab implements ARM assembly routines to convert ASCII letters and digits to LCD font codes, display alternating “SANTA/CLARA” text and scrolling numbers, and scan a 4×4 keypad so each key press is shown on the LCD.
