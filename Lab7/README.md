@@ -1,0 +1,1 @@
+This repository contains my Lab 7 project for ELEN 120, where I wrote ARM assembly for the STM32L476G Discovery board to configure GPIO and DAC hardware and use timer-driven interrupts to generate periodic analog waveforms (including sine and sawtooth signals) observable on an oscilloscope. The repository includes the written lab report.
