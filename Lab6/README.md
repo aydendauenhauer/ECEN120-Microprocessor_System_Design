@@ -1,0 +1,1 @@
+This repository contains my Lab 6 project for ELEN 120, where I implemented a software SPI interface on the STM32L476G Discovery board to control a 60-LED SK9822 RGB light strip through a 74HCT244 level shifter. The lab configures GPIO pins for clock and data, sends 8-bit and 32-bit SPI frames, and creates various color patterns and animations along the strip.
