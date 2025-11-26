@@ -1,0 +1,1 @@
+This repository contains my Lab 4 project for ELEN 120, where I wrote ARM assembly subroutines on the STM32L476G Discovery board to practice stack-based parameter passing and structured programming. The lab implements a sum routine that adds integers from the system stack, a recursive Fibonacci subroutine, and a joystick interface that records button presses into a memory buffer.
