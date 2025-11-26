@@ -1,1 +1,0 @@
-This repository contains my Lab 2 project for ELEN 120, where I wrote and tested several ARM assembly routines that use loops, condition flags, and indexed addressing to compare arrays, modify array elements, compute running sums and sums of squares, and find the maximum of three numbers while observing changes in registers and memory.
