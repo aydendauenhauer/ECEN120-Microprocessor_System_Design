@@ -1,0 +1,1 @@
+This repository contains my Homework 6 for ELEN 120, where I calculated STM32 timer settings (prescaler and reload register) from the CPU clock frequency to achieve a specified interrupt rate and period, and determined the corresponding TIM_PSC and TIM_ARR values. The repository includes any supporting configuration or source files.
