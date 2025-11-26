@@ -1,0 +1,1 @@
+This repository contains my Homework 7 for ELEN 120, where I implemented and tested selection sort in ARM assembly to sort integer arrays and arrays of strings, then verified correctness by examining memory contents and string pointer addresses before and after sorting. The repository includes the ARM assembly source files.
