@@ -1,0 +1,1 @@
+This repository contains my Homework 5 for ELEN 120, where I wrote and documented an ARM assembly program (samplelist) that iterates over 32-bit words using shifts, masking, and conditional branches, and answered reference-manual questions about key STM32L476 I/O registers and their addresses. The repository includes the ARM assembly source files.
