@@ -1,0 +1,1 @@
+This repository contains my Lab 3 project for ELEN 120, where I wrote ARM assembly programs for an STM32 microcontroller to configure GPIO pins and control on-board LEDs, then implemented and calibrated loop-based delay routines to blink the green and red LEDs and alternate them at an approximate one-second rate.
