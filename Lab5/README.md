@@ -1,0 +1,1 @@
+This repository contains my Lab 5 project for ELEN 120, where I analyzed and extended STM32 example code to use external interrupts and hardware timers. The lab configures joystick-driven external interrupts to toggle the on-board LEDs and programs a timer interrupt to generate a 1 kHz square wave on a GPIO pin, verified on an oscilloscope.
