@@ -1,0 +1,1 @@
+This repository contains my Lab 1 project for ELEN 120, where I wrote and analyzed simple ARM assembly programs that use load/store instructions, address calculations, arithmetic operations, and logical shifts, added detailed comments, traced register and memory contents, and implemented a routine to compute the sum of squares of two numbers and store the result in memory.
