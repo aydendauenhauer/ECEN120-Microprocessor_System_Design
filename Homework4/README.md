@@ -1,0 +1,1 @@
+This repository contains my Homework 4 for ELEN 120, where I wrote and analyzed several ARM assembly programs that loop over arrays, double list elements, decode a sequence of conditional tests on memory data, and count positive bytes using sign extension and conditional instructions. The repository includes the ARM assembly source files.
